@@ -1,4 +1,3 @@
-# NTUCSIE_ML
 # NTU CS Machine Learning Homework
 
 這個專案包含了台大資訊工程系林軒田老師的機器學習作業。
